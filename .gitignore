@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore large Megascans assets
+/Content/Megascans/3D_Assets/Massive_Nordic_Coastal_Cliff_ve3hahfcb/S_Massive_Nordic_Coastal_Cliff_ve3hahfcb_high_Var1.uasset
+/Content/Megascans/3D_Assets/Massive_Nordic_Coastal_Cliff_venrdcgga/T_Massive_Nordic_Coastal_Cliff_venrdcgga_8K_D.uasset
